@@ -1,0 +1,19 @@
+.about-us-title{
+    padding-top: 60px;
+}
+
+.about-us-heading{
+    font-size: 64px;
+    border-bottom: 7px solid;
+}
+
+.meet-team{
+    font-size: 48px;
+    border-bottom: 7px solid;
+    margin:auto;
+    display: table;
+}
+
+.about-us-team{
+    padding-top: 60px;
+}

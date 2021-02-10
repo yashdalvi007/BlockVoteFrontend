@@ -1,0 +1,7 @@
+.landing-card-section{
+    padding-top: 75px;
+    width: 500px;
+    height: 250px;
+    display: flex;
+    justify-content: space-between;
+}

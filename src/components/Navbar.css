@@ -1,0 +1,48 @@
+/* .logo{
+  float:left;
+  display: block;
+}
+.items{
+  float:right;
+}
+
+ul li {
+  display: inline-block;
+  width: 138px;
+  text-align:right;
+  /* /padding-top: 18px; 
+  font-size:24px; font-family:raleway;
+}
+
+li :not(:last-child){
+  padding-right: 138px;
+} */
+
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: stretch;
+}
+
+ul li {
+  display: inline-block;
+  width: 138px;
+  text-align:right;
+  /* padding-top: 18px;  */
+  font-size:16px;
+  font-weight: 500;
+}
+.logo{
+  float: left;
+  align-self: flex-start;
+}
+
+.items{
+  float: right;
+  align-self: center;
+}
+
+li :not(:last-child){
+  padding-right: 138px;
+}

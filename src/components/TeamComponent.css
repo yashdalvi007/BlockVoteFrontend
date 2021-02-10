@@ -1,0 +1,18 @@
+.team-img{
+    height: 200px;
+    width: 200px;
+}
+
+.team-component{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.member-name{
+    font-size: 40px;
+}
+
+.member-title{
+    font-size: 20px;
+}
