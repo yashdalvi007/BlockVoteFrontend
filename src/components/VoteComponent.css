@@ -1,0 +1,55 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: 20% 65% 10%;
+    position: relative;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+
+.candidate-img{
+    vertical-align: middle;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  padding-left: 10px;
+}
+
+.btn-vote{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.vote-component{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    
+}
+
+.political-party{
+    font-size: 20px;
+}
+
+.agenda{
+    font-size: 16px;
+}
+
+.btn-vote{
+    height: 40px;
+    width: 120px;
+    border-radius: 5px;
+}
+
+.vote-button{
+    padding-left: 20px;
+}
+
+.candidate-details{
+    text-align: justify;
+}
+
+.vote-heading{
+    margin-bottom: 40px;
+    margin-top: 64px;
+}

@@ -13,6 +13,7 @@
 }
 
 .heading-1{
+    color: #312C2B;
     font-size: 48px;
     font-weight: bold;
 }
@@ -33,6 +34,11 @@
 .getstarted{
     font-size: 32px;
     font-weight: 500;
+}
+
+.content a{
+    text-decoration: none;
+    color: black;
 }
 
 .arrow{

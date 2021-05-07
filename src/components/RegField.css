@@ -1,0 +1,15 @@
+.reg-label{
+    font-size: 32px;
+    font-weight: 500;
+}
+
+
+
+.reg-field{
+    padding-bottom: 20px;
+}
+
+.div-label{
+    padding-bottom: 8px;
+    padding-top: 20px;
+}

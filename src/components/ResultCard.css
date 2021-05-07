@@ -1,0 +1,16 @@
+.grid-containerRes{
+        display: grid;
+        grid-template-columns: 60% 40%;
+        position: relative;
+        border: 1px solid black;
+        border-radius: 10px;
+        margin-bottom: 40px;
+    }
+
+.per{
+    padding-left: 40px;
+}
+
+.nameRes{
+    font-size: 32px;
+}

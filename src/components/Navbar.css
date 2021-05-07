@@ -32,6 +32,7 @@ ul li {
   /* padding-top: 18px;  */
   font-size:16px;
   font-weight: 500;
+  text-decoration: none;
 }
 .logo{
   float: left;
@@ -45,4 +46,9 @@ ul li {
 
 li :not(:last-child){
   padding-right: 138px;
+}
+
+li a{
+  text-decoration: none;
+  color: black;
 }
